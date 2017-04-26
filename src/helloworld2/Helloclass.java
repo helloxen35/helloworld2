@@ -2,7 +2,7 @@ package helloworld2;
 
 public class Helloclass {
 	
-	public static void Main(String[] args)
+	public static void main(String[] args)
 	{
 		for(int i=0; i<10 ;i++)
 		{
